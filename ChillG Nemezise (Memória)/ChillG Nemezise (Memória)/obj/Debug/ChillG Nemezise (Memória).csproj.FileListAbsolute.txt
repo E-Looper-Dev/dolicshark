@@ -1,0 +1,52 @@
+C:\Users\Diák\source\repos\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\bin\Debug\ChillG Nemezise (Memória).exe
+C:\Users\Diák\source\repos\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\bin\Debug\ChillG Nemezise (Memória).exe.config
+C:\Users\Diák\source\repos\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\ChillG Nemezise (Memória).csproj.AssemblyReference.cache
+C:\Users\Diák\source\repos\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\ChillG Nemezise (Memória).csproj.SuggestedBindingRedirects.cache
+C:\Users\Diák\source\repos\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\Game.g.cs
+C:\Users\Diák\source\repos\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\MainWindow.g.cs
+C:\Users\Diák\source\repos\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\App.g.cs
+C:\Users\Diák\source\repos\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\ChillG Nemezise (Memória)_MarkupCompile.cache
+C:\Users\Diák\source\repos\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\ChillG Nemezise (Memória)_MarkupCompile.lref
+C:\Users\Diák\source\repos\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\Game.baml
+C:\Users\Diák\source\repos\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\MainWindow.baml
+C:\Users\Diák\source\repos\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\ChillG Nemezise (Memória).g.resources
+C:\Users\Diák\source\repos\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\ChillG_Nemezise__Memória_.Properties.Resources.resources
+C:\Users\Diák\source\repos\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\ChillG Nemezise (Memória).csproj.GenerateResource.cache
+C:\Users\Diák\source\repos\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\ChillG Nemezise (Memória).csproj.CoreCompileInputs.cache
+C:\Users\Diák\source\repos\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\ChillG Nemezise (Memória).exe
+C:\Users\Diák\source\repos\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\ChillG Nemezise (Memória).pdb
+C:\Users\zsane\Desktop\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\bin\Debug\ChillG Nemezise (Memória).exe.config
+C:\Users\zsane\Desktop\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\bin\Debug\ChillG Nemezise (Memória).exe
+C:\Users\zsane\Desktop\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\bin\Debug\ChillG Nemezise (Memória).pdb
+C:\Users\zsane\Desktop\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\ChillG Nemezise (Memória).csproj.AssemblyReference.cache
+C:\Users\zsane\Desktop\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\Game.g.cs
+C:\Users\zsane\Desktop\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\MainWindow.g.cs
+C:\Users\zsane\Desktop\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\App.g.cs
+C:\Users\zsane\Desktop\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\ChillG Nemezise (Memória)_MarkupCompile.cache
+C:\Users\zsane\Desktop\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\ChillG Nemezise (Memória)_MarkupCompile.lref
+C:\Users\zsane\Desktop\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\Game.baml
+C:\Users\zsane\Desktop\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\MainWindow.baml
+C:\Users\zsane\Desktop\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\ChillG Nemezise (Memória).g.resources
+C:\Users\zsane\Desktop\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\ChillG_Nemezise__Memória_.Properties.Resources.resources
+C:\Users\zsane\Desktop\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\ChillG Nemezise (Memória).csproj.GenerateResource.cache
+C:\Users\zsane\Desktop\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\ChillG Nemezise (Memória).csproj.CoreCompileInputs.cache
+C:\Users\zsane\Desktop\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\ChillG Nemezise (Memória).exe
+C:\Users\zsane\Desktop\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\ChillG Nemezise (Memória).pdb
+C:\Users\Diák\Desktop\doli\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\ChillG Nemezise (Memória).csproj.AssemblyReference.cache
+C:\Users\Diák\Desktop\doli\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\ChillG Nemezise (Memória).csproj.SuggestedBindingRedirects.cache
+C:\Users\Diák\Desktop\doli\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\Game.g.cs
+C:\Users\Diák\Desktop\doli\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\MainWindow.g.cs
+C:\Users\Diák\Desktop\doli\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\App.g.cs
+C:\Users\Diák\Desktop\doli\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\ChillG Nemezise (Memória)_MarkupCompile.cache
+C:\Users\Diák\Desktop\doli\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\ChillG Nemezise (Memória)_MarkupCompile.lref
+C:\Users\Diák\Desktop\doli\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\ChillG Nemezise (Memória).exe
+C:\Users\Diák\Desktop\doli\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\ChillG Nemezise (Memória).pdb
+C:\Users\Diák\Desktop\doli\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\bin\Debug\ChillG Nemezise (Memória).exe.config
+C:\Users\Diák\Desktop\doli\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\bin\Debug\ChillG Nemezise (Memória).exe
+C:\Users\Diák\Desktop\doli\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\bin\Debug\ChillG Nemezise (Memória).pdb
+C:\Users\Diák\Desktop\doli\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\Game.baml
+C:\Users\Diák\Desktop\doli\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\MainWindow.baml
+C:\Users\Diák\Desktop\doli\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\ChillG Nemezise (Memória).g.resources
+C:\Users\Diák\Desktop\doli\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\ChillG_Nemezise__Memória_.Properties.Resources.resources
+C:\Users\Diák\Desktop\doli\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\ChillG Nemezise (Memória).csproj.GenerateResource.cache
+C:\Users\Diák\Desktop\doli\ChillG Nemezise (Memória)\ChillG Nemezise (Memória)\obj\Debug\ChillG Nemezise (Memória).csproj.CoreCompileInputs.cache
